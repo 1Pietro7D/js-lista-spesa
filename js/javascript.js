@@ -4,7 +4,7 @@ const theList = [
   "Sgabello",
   "Formaggio",
   "Borraccia blu",
-  "Cazzo di gomma",
+  "Ca**o di gomma",
   "eeeeeeh.. Cannuccia!",
 ];
 
